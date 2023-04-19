@@ -2,7 +2,7 @@
 
 Caso não lembre como funciona o processo de entrega, clique [**aqui**](https://github.com/labenuexercicios/instrucoes-entrega)
 
-## O que você precisa saber e praticar desta aula?
+## O que você precisa saber e praticar desta aula???
 1. Como usar o Postman
 2. Leitura da documentação da API
 3. Como fazer requisições para uma API e seus métodos
