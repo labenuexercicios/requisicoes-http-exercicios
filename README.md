@@ -30,6 +30,3 @@ Hoje vamos treinar requisições usando o **Postman** e a API do **Labefy**.
 - Delete outra playlist.
 
 
-## Informações úteis sobre o assunto
-
-
